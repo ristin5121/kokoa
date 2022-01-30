@@ -1,5 +1,7 @@
 .user-component2 {
   margin-bottom: 25px;
+  display: flex;
+  align-items: center;
 }
 .user-component {
   justify-content: space-between;

@@ -1,0 +1,35 @@
+.chats-body {
+  background-image: url("https://mblogthumb-phinf.pstatic.net/MjAxODAyMjNfMjAw/MDAxNTE5Mzc2ODE1ODgx.G7khcMhWHpVFZG6mEUNwjUAYsW8F442RTO-Xx69d2s8g.sHXfIhUh5dEuzBExZd59TRVzGEQZxjxBBuWewZZ0GAYg.PNG.lastmistake/T11.png?type=w800");
+  background-attachment: fixed;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.friends-body {
+  background-image: url("https://i.pinimg.com/originals/26/0e/27/260e2723576bcad340d1dc9595964d16.png");
+  background-attachment: fixed;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.chat-screen0 {
+  background-image: url("https://t1.daumcdn.net/cfile/tistory/99802A425B782B0A0C");
+  background-attachment: fixed;
+  height: 500vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.chat-screen1 {
+  background-image: url("https://mblogthumb-phinf.pstatic.net/MjAxNzA5MDhfMjI3/MDAxNTA0ODc0OTgxNzU1.gG03yiDHBLvCK5P5-kj6a1TYKvqQZHWc_wewXXzokGkg.NHx3WpXLzKmiLdsvbMP_LkVlFg1TRy7w3an-DXaZKmog.JPEG.minarigirl/3.jpg?type=w800");
+  background-attachment: fixed;
+  height: 500vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.chat-screen2 {
+  background-image: url("https://i.pinimg.com/originals/4b/dd/c6/4bddc616160fe8b67ff541802e85e1ad.png");
+  background-attachment: fixed;
+  height: 500vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

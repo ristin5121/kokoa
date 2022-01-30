@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #f9f9fa;
+  background-color: var(--yellow);
   padding: 20px 50px;
   box-sizing: border-box;
   border-top: 1.5px solid rgba(121, 121, 121, 0.3);
@@ -13,13 +13,26 @@
 }
 .nav__link {
   position: relative;
-  color: #2e363e;
+  color: var(--bar-gray);
+}
+
+@keyframes notificationAnimation {
+  0% {
+    transform: none;
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: none;
+  }
 }
 
 .nav__notification {
   position: absolute;
   left: 18px;
   bottom: 15px;
+  animation: notificationAnimation 1.5s ease-in-out infinite;
 }
 
 .nav__notification_dot {
