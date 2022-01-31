@@ -13,6 +13,10 @@
   color: rgba(0, 0, 0, 0.3);
 }
 
+.friends-body {
+  height: 120vh;
+}
+
 .friends-screen {
   padding: 0px var(--horizontal-space);
   padding-top: 123px;

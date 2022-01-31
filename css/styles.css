@@ -35,3 +35,6 @@ body:not("index.html") {
   padding: 0px var(--horizontal-space);
   padding-top: 130px;
 }
+.main-screen2 {
+  padding: 0px var(--horizontal-space);
+}
