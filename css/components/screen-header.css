@@ -4,9 +4,14 @@
   justify-content: space-between;
   align-items: center;
   padding: var(--horizontal-space);
-  padding-top: 45px;
+  padding-top: 30px;
   margin-bottom: 15px;
   color: var(--bar-gray);
+  position: fixed;
+  top: 20px;
+  left: 0px;
+  right: 0px;
+  box-sizing: border-box;
 }
 
 .screen-header__title {
