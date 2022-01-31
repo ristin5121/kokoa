@@ -1,3 +1,7 @@
+.find-screen {
+  height: 120vh;
+}
+
 .recommended-friends {
   margin: 25px 0px;
   padding: 20px;
@@ -12,13 +16,12 @@
 }
 
 .recommended-friends span {
-  margin: 75px 0px;
+  margin: 100px 0px;
   display: block;
   text-align: center;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.4);
 }
-
 .open-chat__header {
   display: flex;
   justify-content: space-between;
