@@ -36,6 +36,12 @@
   color: rgba(0, 0, 0, 0.5);
 }
 
+#splash-screen img {
+  width: 300px;
+  height: 270px;
+  border-radius: 76px;
+}
+
 @keyframes hideSplashScreen {
   from {
     opacity: 1;
@@ -57,9 +63,4 @@
   align-items: center;
   animation: hideSplashScreen 1s ease-in-out forwards;
   animation-delay: 0.5s;
-}
-#splash-screen img {
-  width: 300px;
-  height: 270px;
-  border-radius: 76px;
 }
