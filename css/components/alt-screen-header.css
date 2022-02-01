@@ -17,6 +17,11 @@
   font-weight: 600;
 }
 
+.alt-header__title1 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
 .alt-header__column:first-child {
   margin-right: auto;
 }
